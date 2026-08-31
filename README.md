@@ -2,10 +2,7 @@
 
 GitHub Pages site for [Shencore8](https://github.com/Shencore8).
 
-## Rutinapp
+- Site home: https://shencore8.github.io/
+- Rutinapp: https://shencore8.github.io/rutinapp/
 
-- Landing: https://shencore8.github.io/rutinapp/
-- Privacy: https://shencore8.github.io/rutinapp/privacy.html
-- Feedback: https://github.com/Shencore8/rutinapp-feedback/issues/new/choose
-
-Edit files under `rutinapp/` and push to `main` to update the live site.
+Edit `index.html` for the site home and files under `rutinapp/` for the app pages.
